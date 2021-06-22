@@ -1,4 +1,8 @@
 api_key.py
+yearly_data_2019.csv
+yearly_data_2020.csv
+yearly_data_2021.csv
+city_id.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
