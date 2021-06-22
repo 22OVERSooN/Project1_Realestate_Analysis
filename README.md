@@ -94,3 +94,4 @@ https://developer.domain.com.au/docs/latest/apis/pkg_properties_locations/refere
 using python to map geo graph data
 https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
 
+https://plotly.com/python/box-plots/
