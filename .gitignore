@@ -3,6 +3,16 @@ yearly_data_2019.csv
 yearly_data_2020.csv
 yearly_data_2021.csv
 city_id.csv
+quarter_data_2019_1st.csv
+quarter_data_2019_2nd.csv
+quarter_data_2019_3rd.csv
+quarter_data_2019_4th.csv
+quarter_data_2019_1st.csv
+quarter_data_2019_2nd.csv
+quarter_data_2019_3rd.csv
+quarter_data_2019_4th.csv
+quarter_data_2019_1st.csv
+quarter_data_2019_2nd.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
