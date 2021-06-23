@@ -7,6 +7,7 @@ Everytime when you start to work on our project:
 1. cd your terminal to your local repo file
 2. git pull the change from that other team members (let your local repo has the latest version)
 3. update your work log in the readme file if you want to 
+4. update your work into your own branch, we will merge all of them into main branch at the end. Don't push your work to main branch.
 
 
 
