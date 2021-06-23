@@ -7,12 +7,12 @@ quarter_data_2019_1st.csv
 quarter_data_2019_2nd.csv
 quarter_data_2019_3rd.csv
 quarter_data_2019_4th.csv
-quarter_data_2019_1st.csv
-quarter_data_2019_2nd.csv
-quarter_data_2019_3rd.csv
-quarter_data_2019_4th.csv
-quarter_data_2019_1st.csv
-quarter_data_2019_2nd.csv
+quarter_data_2020_1st.csv
+quarter_data_2020_2nd.csv
+quarter_data_2020_3rd.csv
+quarter_data_2020_4th.csv
+quarter_data_2021_1st.csv
+quarter_data_2021_2nd.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
