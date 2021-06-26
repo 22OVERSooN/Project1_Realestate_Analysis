@@ -94,3 +94,14 @@ using python to map geo graph data
 https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
 
 https://plotly.com/python/box-plots/
+
+Therese supplied
+school list and list of popular suburbs
+
+updated google generate docs summarize project details
+
+17 june via slack
+https://www.land.vic.gov.au/valuations/resources-and-reports/revaluation-2020-outcomes
+
+21 june via slack
+https://www.rba.gov.au/chart-pack/interest-rates.html
