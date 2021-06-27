@@ -57,6 +57,8 @@ https://onproperty.com.au/free-sites-for-property-research/
 https://developers.google.com/chart/interactive/docs/gallery/geochart
 https://www.greatschools.org/api/
 https://developer.domain.com.au
+https://www.land.vic.gov.au/valuations/resources-and-reports/revaluation-2020-outcomes
+https://www.rba.gov.au/chart-pack/interest-rates.html
 
 Using the GET /v1/addressLocators and GET /v1/suburbPerformanceStatistics/ from Domain, to find the price as follow:
 
@@ -151,15 +153,5 @@ From the heatmap we can tell how the sale price spread cross the greater Melbour
 ![map (2)](https://user-images.githubusercontent.com/82508049/123532263-19319480-d74f-11eb-82bd-fe5a6dd00088.png)
 
 
-https://plotly.com/python/box-plots/
 
-Therese supplied
-school list and list of popular suburbs
 
-updated google generate docs summarize project details
-
-17 june via slack
-https://www.land.vic.gov.au/valuations/resources-and-reports/revaluation-2020-outcomes
-
-21 june via slack
-https://www.rba.gov.au/chart-pack/interest-rates.html
