@@ -1,4 +1,5 @@
 api_key.py
+Access to domain api.py
 yearly_data_2019.csv
 yearly_data_2020.csv
 yearly_data_2021.csv
@@ -13,6 +14,28 @@ quarter_data_2020_3rd.csv
 quarter_data_2020_4th.csv
 quarter_data_2021_1st.csv
 quarter_data_2021_2nd.csv
+Bottom 10 Median Sold Price - 2019.png
+Bottom 10 Median Sold Price - 2020.png
+Bottom 10 Median Sold Price - 2021.png
+Bottom 10 Rent Price(per week) - 2019.png
+Bottom 10 Rent Price(per week) - 2020.png
+Bottom 10 Rent Price(per week) - 2021.png
+Top 10 Highest Listing Price - 2019.png
+Top 10 Highest Listing Price - 2020.png
+Top 10 Highest Listing Price - 2021.png
+Top 10 Highest Rent Price(per week) - 2019.png
+Top 10 Highest Rent Price(per week) - 2020.png
+Top 10 Highest Rent Price(per week) - 2021.png
+Top 10 Highest Sold Price - 2019.png
+Top 10 Highest Sold Price - 2020.png
+Top 10 Highest Sold Price - 2021.png
+Top 10 Median Listing Price - 2019.png
+Top 10 Median Listing Price - 2020.png
+Top 10 Median Listing Price - 2021.png
+Top 10 Sold Price Decrease - 2019vs2020.png
+Top 10 Sold Price Decrease - 2020vs2021.png
+Top 10 Sold Price Increase - 2019vs2020.png
+Top 10 Sold Price Increase - 2020vs2021.png
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
