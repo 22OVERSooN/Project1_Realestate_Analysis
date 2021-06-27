@@ -16,13 +16,13 @@ Everytime when you start to work on our project:
 
 Price Factor influencing property development and purchases (real estate) - melbourne
  
-Questions
+Questions in details
 
 1.Do purchase price and sell number and rent number impact by bank interest rate (base on quartly data and bank interest rate, line chart) -Echo
 
 2.In three different years, compare whole number of list and sold (use sum up value, bar chart) -therese
 
-3.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold) - therese? 
+3.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold) - Echo
 
 *4.What has caused the increase or decrease? (covid, loan interests, schools)
 
