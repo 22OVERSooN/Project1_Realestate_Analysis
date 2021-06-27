@@ -92,6 +92,15 @@ When we try to dig a little bit more on qurterly data, we will find that during 
 ![Median Sell Price (2019-2021 Quarterly)](https://user-images.githubusercontent.com/75764401/123532282-3cf4da80-d74f-11eb-86e9-032040ae8ec8.png)
 ![Sold Price Increase Rate(2020-2021)](https://user-images.githubusercontent.com/75764401/123532286-454d1580-d74f-11eb-9281-86ca7c5fc446.png)
 
+Method Use yearly data to compare from domain using pandas to see if there was a difference between number sold and list. Used a bar chart
+
+conclusion:During the Comparison of list vs sold properties for 2019, 2020 & 2021
+Number listed has far out weight the number sold
+In saying that the number listed and sold have only increased marginally
+Covid hasn’t really had an impact in number of sales as covid started late 2019 into 2020
+While cash rate peaked in 2019 and decreased 2020 to 2021. The sold price increased and rent price  spiked in April and has now stayed consistent but have showed not major impact on sold and listed. Analysis of the quarterly data may reveal more insights
+
+
 
 ## Covid Impact
 
