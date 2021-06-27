@@ -71,22 +71,18 @@ Clean the dataset, and save to the main branch for everyone to use.
 Help setup the questions and help others with the questions several times(how to write the code(how to use the pandas and matplotlib, how to work with the github), then setup the presentation frame.
 Finish the part of fundamentally analysis of the property market in Melbourne and also the Covid impact and Bank interests impact.
 
-# Rachel's contribution: 
-Can consider this API, we can specify the stats based on quarter or year, and specify the region, it still provide majorities of the stats infor that we requires.
-https://developer.domain.com.au/docs/latest/apis/pkg_properties_locations/references/suburbperformancestatistics_get
+# Schools analysis
+Questions to answer:
+1. Does number of schools (in a suburb) and rankings of schools impact on: 
+--property sale price 
+--property sale activities (number of houses sold in a suburb) 
+2. Is there relationship between suburbs where the property get sold the most and suburbs where the top ranking schools locate.
 
-using python to map geo graph data
-https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
+Method: --Scatterplot to show case the relationship between the schools spread (locations) and the School count under each postcode --Scatterplot to show case the relationship between the schools spread (locations) and the house median sold price under each postcode --Gamps heatmap to indicate the median sale price among greater Melbourne regions --Gamps symbol to indicate suburbs which has the most houses sell activities --Gamps symbol to indicate suburbs which has the most houses sell activities --Gamps marker to indicate top ranking schools among greater Melbourne regions
 
-https://plotly.com/python/box-plots/
+Conclusions: 
+From the scatter plots, we can see the median sale price is lower around the outer part of Melbourne region, and gradually increase towards the centre part of Melbourne . We can also see from the map that the majorities of the top ranking schools are located towards the centre part of the Melbourne. Hence we believe there is correlation between schools’ ranking and the property sale price. Where there are high ranking schools, the property sale price would be boosted. 
 
-Therese supplied
-school list and list of popular suburbs
+However, from the scatterplot the numbers of schools in a suburb does not appear to have a positive impact on suburbs, we can see from the plot, where there are the most schools, the suburbs have rather low median sale price. 
 
-updated google generate docs summarize project details
-
-17 june via slack
-https://www.land.vic.gov.au/valuations/resources-and-reports/revaluation-2020-outcomes
-
-21 june via slack
-https://www.rba.gov.au/chart-pack/interest-rates.html
+From the heatmap we can tell how the sale price spread cross the greater Melbourne region. On top of the heatmap, the symbol layer indicates the suburbs appear to have most sold properties. And the makers flag the top ranking schools. However, we can see there is not much overlapping between the suburbs has most sale activities and the suburbs has highest ranking schools. Saying that, it might also due to the fact that majorities of top ranking schools are located in the area that too expensive to purchase, and people opt to rent instead. However, to determine that, we need to analyse further and combine other factors as well.
