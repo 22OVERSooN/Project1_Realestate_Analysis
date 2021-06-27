@@ -92,6 +92,18 @@ When we try to dig a little bit more on qurterly data, we will find that during 
 ![Median Sell Price (2019-2021 Quarterly)](https://user-images.githubusercontent.com/75764401/123532282-3cf4da80-d74f-11eb-86e9-032040ae8ec8.png)
 ![Sold Price Increase Rate(2020-2021)](https://user-images.githubusercontent.com/75764401/123532286-454d1580-d74f-11eb-9281-86ca7c5fc446.png)
 
+The correlation between Median Sold Price and Median Rent Price is 0.92, 0.91 and 0.89 for 2019, 2020 and 2021 respectively. Indicates a strong positive correlation.
+
+![Median Price Sold Vs Median Rent Price](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/1fcfd5bd8d3b3b93e23b8e946b51b12c389891a8/output_data/Median%20Sold%20Price%20vs.%20Median%20Rent%20Price(2019).png)
+![Median Price Sold Vs Median Rent Price](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/1fcfd5bd8d3b3b93e23b8e946b51b12c389891a8/output_data/Median%20Sold%20Price%20vs.%20Median%20Rent%20Price(2020).png) 
+![Median Price Sold Vs Median Rent Price](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/1fcfd5bd8d3b3b93e23b8e946b51b12c389891a8/output_data/Median%20Sold%20Price%20vs.%20Median%20Rent%20Price(2021).png)
+
+The correlation between Median Sold Price and Median Rent Price is -0.08, -0.09 and -0.08 for 2019, 2020 and 2021 respectively. Indicates a weak negative correlation
+
+![Median Price Sold Vs No of Rent Listing](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/1fcfd5bd8d3b3b93e23b8e946b51b12c389891a8/output_data/Median%20Sold%20Price%20vs.%20No%20of%20Rent%20Listing(2019).png)
+![Median Price Sold Vs No of Rent Listing](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/1fcfd5bd8d3b3b93e23b8e946b51b12c389891a8/output_data/Median%20Sold%20Price%20vs.%20No%20of%20Rent%20Listing(2020).png) 
+![Median Price Sold Vs No of Rent Listing](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/1fcfd5bd8d3b3b93e23b8e946b51b12c389891a8/output_data/Median%20Sold%20Price%20vs.%20No%20of%20Rent%20Listing(2021).png)
+
 Method Use yearly data to compare from domain using pandas to see if there was a difference between number sold and list. Used a bar chart
 
 conclusion:During the Comparison of list vs sold properties for 2019, 2020 & 2021
