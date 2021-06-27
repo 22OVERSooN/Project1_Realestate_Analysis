@@ -20,22 +20,21 @@ Questions in details
 
 1.Do purchase price and sell number and rent number impact by bank interest rate (base on quartly data and bank interest rate, line chart) -Echo
 
-2.In three different years, compare whole number of list and sold (use sum up value, bar chart) -therese
+2.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold) - Echo
 
-3.Have purchases increased/decreased between 2019 - 2021 (quartly, median sell price, listing, sold) - Echo
+3.The outliners of 2019-2021 in Highest sell price, median sold price (boxplot, maybe highlight the outliner) - Echo
 
-*4.What has caused the increase or decrease? (covid, loan interests, schools)
+4.In three different years, compare whole number of list and sold (use sum up value, bar chart) -therese
 
-5.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools) - Rachel
+*5.What has caused the increase or decrease? (covid, loan interests, schools)
 
 6.Does the median price of the rent has relationships with price of sold?(scatter plot, linear regression) - Anjali
 
 7.Does the list of rent has relationships with price of sold?(scatter plot, linear regression) - Anjali
 
-8.What is the most popular suburb or type of dwelling? (heatmap-googlemap geo module, marker about school (government, catholic, private) - Rachel
+8.Does the quantity of the schools has anything do with the property price? Or just the quality of the schools? (heatmap of schools and heatmaps of price, heatmps of median price with markers of top ranking schools) - Rachel
 
-9.The outliners of 2019-2021 in Highest sell price, median sold price (boxplot, maybe highlight the outliner) - Echo
-
+9.What is the most popular suburb, does it appear to have relationship with locations of top ranking shcools? (heatmap-googlemap geo module, marker about school (government, private) - Rachel
  
 # Hypothesis
 
@@ -141,6 +140,9 @@ Questions to answer:
 Method: --Scatterplot to show case the relationship between the schools spread (locations) and the School count under each postcode --Scatterplot to show case the relationship between the schools spread (locations) and the house median sold price under each postcode --Gamps heatmap to indicate the median sale price among greater Melbourne regions --Gamps symbol to indicate suburbs which has the most houses sell activities --Gamps symbol to indicate suburbs which has the most houses sell activities --Gamps marker to indicate top ranking schools among greater Melbourne regions
 
 Conclusions: 
+![2021 Melbourne schools spread vs School count under under postcodes](https://user-images.githubusercontent.com/82508049/123543922-30df3c00-d794-11eb-8569-fcb8b650859e.png)
+![2021 Melbourne schools vs MedianSold price for houses](https://user-images.githubusercontent.com/82508049/123543932-3ccafe00-d794-11eb-94e3-4e81b7495ac2.png)
+
 From the scatter plots, we can see the median sale price is lower around the outer part of Melbourne region, and gradually increase towards the centre part of Melbourne . We can also see from the map that the majorities of the top ranking schools are located towards the centre part of the Melbourne. Hence we believe there is correlation between schools’ ranking and the property sale price. Where there are high ranking schools, the property sale price would be boosted. 
 
 However, from the scatterplot the numbers of schools in a suburb does not appear to have a positive impact on suburbs, we can see from the plot, where there are the most schools, the suburbs have rather low median sale price. 
