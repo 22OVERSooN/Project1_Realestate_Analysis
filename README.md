@@ -38,55 +38,40 @@ Questions
 
  
 # Hypothesis
-School Ranking/Number of Schools
-1. Null Hypothesis - If the school ranking is not high then sales the price of property the will be median.
-2. Alternative Hypothesis - If the school ranking is high then it will increase the sales price of the houses
 
-Covid Effect
-1. Null Hypothesis - If there was no covid the sales of property would be high and pricing 
-2. Alternative Hypothesis - If there is covid property sales would be low and pricing would be high
-
-
-look at housing market
-during covid
-found changes sales %
-impact would need further research
+•Covid Effect
+1.Null Hypothesis - If there was no covid then the sales number and price of property would be high
+2.Alternative Hypothesis - If there is covid the sales number and price of property would be low
+•Bank Interests
+1.Null Hypothesis - If the bank interests is drop and then the sell price of the property will go high
+2.Alternative Hypothesis - If the bank interests is drop and then the rent of the property will go low
+•School Ranking/Number of Schools
+1.Null Hypothesis - If the school ranking is not high then sales the price of property  will be median
+2.Alternative Hypothesis - If the school ranking is high then then sales the price of property  will be high
 
 Datasets
 
-https://data.melbourne.vic.gov.au/Property/Development-Activity-Monitor/gh7s-qda8
-(Can only get the data of longitude, latitude and address)
-
-https://data.melbourne.vic.gov.au/browse?category=Property&sortBy=most_accessed&src=fpc&tags=property
-https://data.melbourne.vic.gov.au/Property/Properties-leased-by-City-of-Melbourne/3v7r-q3ds
 https://developer.domain.com.au
 https://onproperty.com.au/free-sites-for-property-research/
 https://developers.google.com/chart/interactive/docs/gallery/geochart
 https://www.greatschools.org/api/
+https://developer.domain.com.au
 
 
-Australian census
-Reserve bank - interest rate?
-Location of schools -
- post code map
- heat map /highest prices -flag top high school/ list school
-Highest lowest areas with schools median house price
-Compare property price with development
-Investigate influence of covid which increased purchase or rental rate
-Compare house sale time overtime vs interest rates offered
-Compare house types
-Purchase vs rental
-Purchase purchase vs ranking
 
+# Echo's contribution
 
-# current dataset Echo find
-By using the GET /v1/addressLocators and GET /v1/suburbPerformanceStatistics/ from Domain, we will be able to find the price as follow:
+Using the GET /v1/addressLocators and GET /v1/suburbPerformanceStatistics/ from Domain, to find the price as follow:
 
 MedianSoldPrice, AuctionNumberAuctioned, AuctionNumberSold, AuctionNumberWithdrawn, NumberSold, LowestSoldPrice, HighestSoldPrice, 5thPercentileSoldPrice, 25thPercentileSoldPrice, 75thPercentileSoldPrice, 95thPercentileSoldPrice, DaysOnMarket, DiscountPercentage, MedianRentListingPrice, NumberRentListing, HighestRentListingPrice, LowestRentListingPrice, MedianSaleListingPrice, NumberSaleListing, HighestSaleListingPrice, LowestSaleListingPrice
 
 ![Screen Shot 2021-06-20 at 3 37 42 pm](https://user-images.githubusercontent.com/75764401/122663398-838d8680-d1dd-11eb-944a-75ec6944c2be.png)
+Clean the dataset, and save to the main branch for everyone to use.
 
-# Rachel's suggestion: 
+Help setup the questions and help others with the questions several times(how to write the code(how to use the pandas and matplotlib, how to work with the github), then setup the presentation frame.
+Finish the part of fundamentally analysis of the property market in Melbourne and also the Covid impact and Bank interests impact.
+
+# Rachel's contribution: 
 Can consider this API, we can specify the stats based on quarter or year, and specify the region, it still provide majorities of the stats infor that we requires.
 https://developer.domain.com.au/docs/latest/apis/pkg_properties_locations/references/suburbperformancestatistics_get
 
