@@ -39,13 +39,15 @@ Questions in details
  
 # Hypothesis
 
-•Covid Effect
+ Covid Effect
 1.Null Hypothesis - If there was no covid then the sales number and price of property would be high
 2.Alternative Hypothesis - If there is covid the sales number and price of property would be low
-•Bank Interests
+
+ Bank Interests
 1.Null Hypothesis - If the bank interests is drop and then the sell price of the property will go high
 2.Alternative Hypothesis - If the bank interests is drop and then the rent of the property will go low
-•School Ranking/Number of Schools
+
+ School Ranking/Number of Schools
 1.Null Hypothesis - If the school ranking is not high then sales the price of property  will be median
 2.Alternative Hypothesis - If the school ranking is high then then sales the price of property  will be high
 
@@ -80,9 +82,13 @@ Summarizing major findings:
 Method: Use yearly and quarterly data and create line chart/scatter plot/bar plot to find if there is any changes on the property market.
 
 Conclusions: If we only look at the yearly data there should not be much of the change, but base on what we here during the covid, the propery market should have a significant drop, so we dig a little deep to the quarterly data.
+
 ![Top 10 Median Sold Price - 2021](https://user-images.githubusercontent.com/75764401/123532242-ed161380-d74e-11eb-814f-45fce03abd55.png)
+
 ![Median Sell Price (2019-2021)](https://user-images.githubusercontent.com/75764401/123532245-f7381200-d74e-11eb-83c6-d5ee877d5194.png)
+
 When we try to dig a little bit more on qurterly data, we will find that during the Jan_Mar 2020 and Sep_Oct 2020, there is significant drop during that period, so we try to use covid, bank interests and school ranking as an factor to figure out which element will triger the property change.
+
 ![Median Sell Price (2019-2021 Quarterly)](https://user-images.githubusercontent.com/75764401/123532282-3cf4da80-d74f-11eb-86e9-032040ae8ec8.png)
 ![Sold Price Increase Rate(2020-2021)](https://user-images.githubusercontent.com/75764401/123532286-454d1580-d74f-11eb-9281-86ca7c5fc446.png)
 
