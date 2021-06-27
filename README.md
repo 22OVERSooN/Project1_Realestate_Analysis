@@ -49,17 +49,13 @@ Questions
 1.Null Hypothesis - If the school ranking is not high then sales the price of property  will be median
 2.Alternative Hypothesis - If the school ranking is high then then sales the price of property  will be high
 
-Datasets
+# Datasets
 
 https://developer.domain.com.au
 https://onproperty.com.au/free-sites-for-property-research/
 https://developers.google.com/chart/interactive/docs/gallery/geochart
 https://www.greatschools.org/api/
 https://developer.domain.com.au
-
-
-
-# Echo's contribution
 
 Using the GET /v1/addressLocators and GET /v1/suburbPerformanceStatistics/ from Domain, to find the price as follow:
 
@@ -68,8 +64,45 @@ MedianSoldPrice, AuctionNumberAuctioned, AuctionNumberSold, AuctionNumberWithdra
 ![Screen Shot 2021-06-20 at 3 37 42 pm](https://user-images.githubusercontent.com/75764401/122663398-838d8680-d1dd-11eb-944a-75ec6944c2be.png)
 Clean the dataset, and save to the main branch for everyone to use.
 
-Help setup the questions and help others with the questions several times(how to write the code(how to use the pandas and matplotlib, how to work with the github), then setup the presentation frame.
-Finish the part of fundamentally analysis of the property market in Melbourne and also the Covid impact and Bank interests impact.
+# Technical Requirements
+
+Use Pandas to clean and format your data sets - (DOWN!)
+Create a Jupyter Notebook describing the data exploration and cleanup process(https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/main/Acquire_data.ipynb) - (DOWN!)
+Create a Jupyter Notebook illustrating the final data analysis - (DOWN!)
+Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data) - (DOWN!)
+Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation(https://github.com/22OVERSooN/Project1_Realestate_Analysis/tree/main/Savefig） - (DOWN!)
+Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions （ Domain API and google API) - (DOWN!)
+
+Summarizing major findings:
+
+## Foundamental Analysis
+
+Method: Use yearly and quarterly data and create line chart/scatter plot/bar plot to find if there is any changes on the property market.
+
+Conclusions: If we only look at the yearly data there should not be much of the change, but base on what we here during the covid, the propery market should have a significant drop, so we dig a little deep to the quarterly data.
+![Top 10 Median Sold Price - 2021](https://user-images.githubusercontent.com/75764401/123532242-ed161380-d74e-11eb-814f-45fce03abd55.png)
+![Median Sell Price (2019-2021)](https://user-images.githubusercontent.com/75764401/123532245-f7381200-d74e-11eb-83c6-d5ee877d5194.png)
+When we try to dig a little bit more on qurterly data, we will find that during the Jan_Mar 2020 and Sep_Oct 2020, there is significant drop during that period, so we try to use covid, bank interests and school ranking as an factor to figure out which element will triger the property change.
+![Median Sell Price (2019-2021 Quarterly)](https://user-images.githubusercontent.com/75764401/123532282-3cf4da80-d74f-11eb-86e9-032040ae8ec8.png)
+![Sold Price Increase Rate(2020-2021)](https://user-images.githubusercontent.com/75764401/123532286-454d1580-d74f-11eb-9281-86ca7c5fc446.png)
+
+
+## Covid Impact
+
+Method: Use yearly and quarterly data and create scattor plot of increase of median sold price, median rent price and median listing price.
+
+Conclusions: If we only look at the yearly data, there are not much of the changes happen, even we can see slightly increase, but once we dig a little bit more, the final results shows that during the covid, even the median of the median sell price has not been impacted, but the IQR and the 25th of the quartile have been impact, which means the property market does has some impact by Covid.
+![The median sold price increase versus decrease - 2020 to 2021](https://user-images.githubusercontent.com/75764401/123532290-4ed67d80-d74f-11eb-99a5-777c14e5ef96.png)
+![The median sold price increase versus decrease - 2019 to 2020](https://user-images.githubusercontent.com/75764401/123532291-50a04100-d74f-11eb-9fdb-6b23bbe964c2.png)
+
+
+## Bank Interests Impact
+
+Method: Use quarterly data and calculate the percentage of increase of median sold price, median rent price and numbers of listing rent/listing sold and actual sold.
+Conclusions: The Covid trully has impact on property market and it impact immedieatly during Jan-Mar/2020 and Jul-Sep/2020, and the rent market basically has the same trend with sold market but the covid makes it goes in an opposite way, more people are likely to rent and not buy. Bank interests rate drop stimulate the property market and makes it increase eventually, but bank interests has laybacks.
+![Cash Rate vs Sold Price Increase Rate Rend Price Increase Rate](https://user-images.githubusercontent.com/75764401/123532293-57c74f00-d74f-11eb-94da-3f9a9df3bb42.png)
+![Cash Rate vs Average Sell Listing Rent Listing Sold](https://user-images.githubusercontent.com/75764401/123532294-59911280-d74f-11eb-8d0f-64578dbfb678.png)
+
 
 # Schools analysis
 Questions to answer:
@@ -87,3 +120,17 @@ However, from the scatterplot the numbers of schools in a suburb does not appear
 
 From the heatmap we can tell how the sale price spread cross the greater Melbourne region. On top of the heatmap, the symbol layer indicates the suburbs appear to have most sold properties. And the makers flag the top ranking schools. However, we can see there is not much overlapping between the suburbs has most sale activities and the suburbs has highest ranking schools. Saying that, it might also due to the fact that majorities of top ranking schools are located in the area that too expensive to purchase, and people opt to rent instead. However, to determine that, we need to analyse further and combine other factors as well.
 ![map (2)](https://user-images.githubusercontent.com/82508049/123532263-19319480-d74f-11eb-82bd-fe5a6dd00088.png)
+
+
+https://plotly.com/python/box-plots/
+
+Therese supplied
+school list and list of popular suburbs
+
+updated google generate docs summarize project details
+
+17 june via slack
+https://www.land.vic.gov.au/valuations/resources-and-reports/revaluation-2020-outcomes
+
+21 june via slack
+https://www.rba.gov.au/chart-pack/interest-rates.html
