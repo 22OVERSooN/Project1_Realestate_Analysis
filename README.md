@@ -80,6 +80,8 @@ Summarizing major findings:
 
 ## Foundamental Analysis
 
+Questions: How does property market change during 2019-2021?
+
 Method: Use yearly and quarterly data and create line chart/scatter plot/bar plot to find if there is any changes on the property market.
 
 Conclusions: If we only look at the yearly data there should not be much of the change, but base on what we here during the covid, the propery market should have a significant drop, so we dig a little deep to the quarterly data.
@@ -117,6 +119,8 @@ While cash rate peaked in 2019 and decreased 2020 to 2021. The sold price increa
 
 ## Covid Impact
 
+Questions: Does Covid_19 has any impact on realestate market?
+
 Method: Use yearly and quarterly data and create scattor plot of increase of median sold price, median rent price and median listing price.
 
 Conclusions: If we only look at the yearly data, there are not much of the changes happen, even we can see slightly increase, but once we dig a little bit more, the final results shows that during the covid, even the median of the median sell price has not been impacted, but the IQR and the 25th of the quartile have been impact, which means the property market does has some impact by Covid.
@@ -125,6 +129,8 @@ Conclusions: If we only look at the yearly data, there are not much of the chang
 
 
 ## Bank Interests Impact
+
+Questions: Does Bank Cash Rate has any impact on realestate market?
 
 Method: Use quarterly data and calculate the percentage of increase of median sold price, median rent price and numbers of listing rent/listing sold and actual sold.
 Conclusions: The Covid trully has impact on property market and it impact immedieatly during Jan-Mar/2020 and Jul-Sep/2020, and the rent market basically has the same trend with sold market but the covid makes it goes in an opposite way, more people are likely to rent and not buy. Bank interests rate drop stimulate the property market and makes it increase eventually, but bank interests has laybacks.
