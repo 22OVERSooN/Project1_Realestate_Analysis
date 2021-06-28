@@ -101,7 +101,7 @@ The correlation between Median Sold Price and Median Rent Price is 0.92, 0.91 an
 ![Median Price Sold Vs Median Rent Price](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/34f9560dbc0f8074191dc3aafce4883df75dda23/Savefig/Median%20Sold%20Price%20vs.%20Median%20Rent%20Price(2020).png) 
 ![Median Price Sold Vs Median Rent Price](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/34f9560dbc0f8074191dc3aafce4883df75dda23/Savefig/Median%20Sold%20Price%20vs.%20Median%20Rent%20Price(2021).png)
 
-The correlation between Median Sold Price and Median Rent Price is -0.08, -0.09 and -0.08 for 2019, 2020 and 2021 respectively. Indicates a weak negative correlation
+The correlation between Median Sold Price and No of Rent Listing is -0.08, -0.09 and -0.08 for 2019, 2020 and 2021 respectively. Indicates a weak negative correlation
 
 ![Median Price Sold Vs No of Rent Listing](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/34f9560dbc0f8074191dc3aafce4883df75dda23/Savefig/Median%20Sold%20Price%20vs.%20No%20of%20Rent%20Listing(2019).png)
 ![Median Price Sold Vs No of Rent Listing](https://github.com/22OVERSooN/Project1_Realestate_Analysis/blob/34f9560dbc0f8074191dc3aafce4883df75dda23/Savefig/Median%20Sold%20Price%20vs.%20No%20of%20Rent%20Listing(2020).png) 
